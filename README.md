@@ -10,7 +10,7 @@ jqコマンド(https://github.com/stedolan/jq )をインストールしておい
 ```
 /bin/bash slack-channel-history.sh -u "SlackURL" -t "SlackToken" -c "Channel or Group"
 ```
-SlackURL - SlackTeamのURL(ex. https://team.slack.com/)
-SlackToken - Slackのトークン(ex. xoxp-****************-**********-*************-*******)
-Channel or Group - ログ取得したいチャンネル名 or グループ名
+SlackURL - SlackTeamのURL(ex. https://****.slack.com/)  
+SlackToken - Slackのトークン(ex. xoxp-****************-**********-*************-*******)  
+Channel or Group - ログ取得したいチャンネル名 or グループ名  
  
